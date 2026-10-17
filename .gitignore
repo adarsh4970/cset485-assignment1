@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+runlog.txt
+pdf_text.txt
+*.log
+.env
